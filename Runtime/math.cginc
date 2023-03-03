@@ -3,6 +3,7 @@
 
 #include "Math/lerp.cginc"
 #include "Math/invlerp.cginc"
+#include "Math/hash.cginc"
 
 float2 Rotate2D(float2 space, float angle)
 {
