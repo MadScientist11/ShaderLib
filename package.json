@@ -1,0 +1,6 @@
+{
+  "name": "com.quizandpuzzle.shaderlib",
+  "version": "1.0.0",
+  "displayName": "ShaderLib",
+  "description": "Library for creating shaders"
+}
