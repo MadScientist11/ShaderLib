@@ -4,8 +4,5 @@
 #include "Math/lerp.cginc"
 #include "Math/invlerp.cginc"
 #include "Math/hash.cginc"
+#include "Math/transform.cginc"
 
-float2 Rotate2D(float2 space, float angle)
-{
-    return mul(float2x2(cos(angle), sin(angle), -sin(angle), cos(angle)), space);
-}
