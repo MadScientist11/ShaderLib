@@ -1,5 +1,4 @@
 #ifndef shaderlib
-#define HASH
 
 #define tt  _Time.y
 
