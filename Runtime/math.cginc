@@ -5,4 +5,5 @@
 #include "Math/invlerp.cginc"
 #include "Math/hash.cginc"
 #include "Math/transform.cginc"
+#include "Math/noise.cginc"
 
